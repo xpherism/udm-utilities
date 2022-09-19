@@ -113,13 +113,6 @@ Update your cloudflare domains from your UDM with podman.
 | Telegram-Notifications On WAN Failover          |   <https://github.com/fire1ce/UDM-Failover-Telegram-Notifications>            | Use telegram bot to be notified of a wan failover with local account|
 
 
-
-### udm-proxy
-
-Run a reverse proxy (using caddy in vlan) on the udm-pro.
-
-<https://github.com/xpherism/udm-proxy>
-
 ## Unsupported / No longer maintained
 
 
